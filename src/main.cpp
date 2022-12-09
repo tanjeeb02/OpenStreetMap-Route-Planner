@@ -51,15 +51,12 @@ int main(int argc, const char** argv)
         else
             osm_data = std::move(*data);
     }
-    //Complete this TODO to satisfy Project Rubric Criterias of User Input
-
-    // TODO 1: Declare floats `start_x`, `start_y`, `end_x`, and `end_y` and get
+   
     float start_x;
     float start_y;
     float end_x;
     float end_y;
-    // user input for these values using std::cin. Pass the user input to the
-    // RoutePlanner object below in place of 10, 10, 90, 90.
+
     std::cin >> start_x;
     std::cin >> start_y;
     std::cin >> end_x;

@@ -1,4 +1,4 @@
-# Route Planning Project
+# CppND: OpenStreetMap Route Planner
 
 This repo contains the code for the Route Planning project.
 
